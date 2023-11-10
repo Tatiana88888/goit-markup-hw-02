@@ -10,10 +10,10 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.Studio {
+.studio {
     color: #2e2f42;}
 
-    .Studio-footer { color: #f4f4fd;}
+    .studio-footer { color: #f4f4fd;}
 .logo-link-footer {
     color: #4d5ae5;
     font-family: Raleway, sans-serif;
@@ -25,17 +25,15 @@
     text-decoration: none;
 }
 
-.nav-links a {color: #2E2F42;
+.menu a {color: #2E2F42;
     font-weight: 500;
     letter-spacing: 0.02em;
   }
-.nav-links a:hover, .nav-links a:focus {
+.menu a:hover, .menu a:focus {
 color: #404bbf;
 }
-.nav-links {list-style-type: none;}
+.menu {list-style-type: none;}
 
-
-.nav-link-studio:active {color: #404BBF}
 
 .address {
     font-style: normal; 
@@ -102,12 +100,12 @@ body {font-family: Roboto, sans-serif;
 background-color: #404BBF;
 }
 
-.section1 {
+.first-block {
     background-color:  #2E2F42;
 }
 
-.section3 { 
-    background-color: #FFFFFF;
+.third-block { 
+    background-color: #F4F4FD;
 }
 
 .section-footer {
@@ -115,6 +113,7 @@ background-color: #404BBF;
 }
 .section-footer-text {
 color: #F4F4FD;
+letter-spacing: 0.02em;
 }
 
 .heder a {
