@@ -35,16 +35,16 @@ color: #404bbf;
 .menu {list-style-type: none;}
 
 
-.address {
+.contacts {
     font-style: normal; 
 }
-.address-links a {
+.contacts-menu a {
     color: #434455;
     letter-spacing: 0.02em;
     
 }
-.address-links a:hover, .address-links a:focus {color: #404bbf;}
-.address-links { list-style-type: none;}
+.contacts-menu a:hover, .contacts-menu a:focus {color: #404bbf;}
+.contacts-menu { list-style-type: none;}
 
 body {font-family: Roboto, sans-serif;
       color: #434455;
